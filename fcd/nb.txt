@@ -1,0 +1,7 @@
+                                                         =====  INTRODUCTION ====
+
+fcd di folder ini merupakan kepanjangan dari FreeCodeCamp, nah di sini gua singkat menjadi FCD, jadi seluruh file apapun entah HTML
+CSS itu semua merupakan bentuk dari proses latihan dan belajar di web FreeCodeCamp. 
+dan di dala file ini juga tempat untuktrack record sekaligus untuk pemanasan sebelum melakukan pemrograman 
+
+Day 1.
