@@ -1,7 +1,14 @@
-                                                         =====  INTRODUCTION ====
+                                                         =====  INTRODUCTION =====
 
 fcd di folder ini merupakan kepanjangan dari FreeCodeCamp, nah di sini gua singkat menjadi FCD, jadi seluruh file apapun entah HTML
 CSS itu semua merupakan bentuk dari proses latihan dan belajar di web FreeCodeCamp. 
 dan di dala file ini juga tempat untuktrack record sekaligus untuk pemanasan sebelum melakukan pemrograman 
 
 Day 1.
+Permulaan Javascript 
+. Relationship antara JavaScript dan HTML
+. Tipe data 
+. Variable include ( operator addition, assigment, and reassigment . But
+  in this intorduction the are no explicit explanation )
+. concat() method ( metode yang berfungsi menggabungkan du string di dalam JavaScript )
+. Memahami fungsi dari console.log 
