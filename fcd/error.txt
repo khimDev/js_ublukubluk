@@ -1,0 +1,6 @@
+
+
+                                                          ==== ERROR DIARY ====
+
+1. Biasakan kalau mau nge console.log itu ga usah pake SPASI kyk gini ( console.log () ) GA usah
+   cukup console log kyk gini ( console.log() )
