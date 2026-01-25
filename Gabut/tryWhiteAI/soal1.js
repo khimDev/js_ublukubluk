@@ -1,9 +1,9 @@
-function cetakAngka(num) {
-    for (let n = 1; n <= num; n++) {
-        console.log(n);
-    }
-}
-console.log(cetakAngka(10))
+// function cetakAngka(num) {
+//     for (let n = 1; n <= num; n++) {
+//         console.log(n);
+//     }
+// }
+// console.log(cetakAngka(10))
 
 /* function jumlahkan(angka) {
     for (let i = 1; i <= angka; i++) {
@@ -19,7 +19,7 @@ console.log(cetakAngka(10))
 function Jumlah(nomer) {
     let total = 0;
 
-    for (let a = 1; a <= nomer; a++){
+    for (let a = 0; a <= nomer; a++){
         total = total + a;
     }
 
