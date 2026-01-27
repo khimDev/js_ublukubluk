@@ -1,22 +1,33 @@
 ==== Kosa kata yang gua ga tau ====
 
 === A ===
+. Aware = Sadar, Saya sadar, 
 
 === B ===
+. Behavior = Perilaku, Bertindak 
 
 === C ===
+. Considered = Di anggap, Di pertimbangkan
+. Confusing = Membingungkan
 
 === D ===
+. Dynamicaly = Dinamis 
+. Determined = Di tentukan, Bertekad
 
 === E ===
+. Enforce = Menegakkan, Memaksakan
+. Especially = Terutama, Khususnya
 
 === F ===
 
 === G ===
 
 === H ===
+. However = Namun, Bagaimanapun
 
 === I ===
+. Instead = Gantinya, Sebagai gantinya, alih-alih
+. Instance = Misalnya, 
 
 === J ===
 
@@ -33,21 +44,33 @@
 === P ===
 
 === Q ===
+. Quirk = Keanehan, Hal aneh, Unik
 
 === R ===
+. Reason = Alasan
+. Root = Akar, Asal mula
 
 === S ===
+. Stricter = Ketat, Lebih ketat
 
 === T ===
+. Troughout = Selama, Diseluruh, Sepenuhnya
 
 === U ===
+, Unfortunately = Sayangnya
 
 === V ===
 
 === W ===
+. Would = Akan, Andaikan
+. Well = Baiklah, Dengan Baik, yah
+. Widely = Secara luas
+. Was/is = Adalah, Berada
+. while = Sementara, Ketika, Meskipun
 
 === X ===
 
 === Y ===
+. Yet = Namun, Tetapi, Belum
 
 === Z ===
