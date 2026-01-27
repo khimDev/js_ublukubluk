@@ -5,6 +5,7 @@
 
 === B ===
 . Behavior = Perilaku, Bertindak 
+. Blame = Salah, Tanggung jawab, Tuduhan
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
