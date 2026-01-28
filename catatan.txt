@@ -2,24 +2,37 @@
 
 === A ===
 . Aware = Sadar, Saya sadar, 
+. Arbiter = Penengah, Mengatur keputusan
+. Allowed = Di Izinkan
+. Append = Menambahkan Di Akhir
+. Ambiguities = Ketidakjelasan, Hal membingungkan
 
 === B ===
 . Behavior = Perilaku, Bertindak 
 . Blame = Salah, Tanggung jawab, Tuduhan
+. Brings = Membawa, Menghasilkan
+. Beneficial / Benefit = Bermanfaat, Manfaat
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
 . Confusing = Membingungkan
+. Convention = Kebiasaan, Aturan, Aturan umum
+. Concatenation = Penggabungan
+. Current = Saat ini, Sekarang
 
 === D ===
 . Dynamicaly = Dinamis 
 . Determined = Di tentukan, Bertekad
+. Directly = Secara langsung
 
 === E ===
 . Enforce = Menegakkan, Memaksakan
 . Especially = Terutama, Khususnya
+. Ensure = Memastikan
+. Even = Bahkan, Genap
 
 === F ===
+. Frequently = Sering
 
 === G ===
 
@@ -29,12 +42,15 @@
 === I ===
 . Instead = Gantinya, Sebagai gantinya, alih-alih
 . Instance = Misalnya, 
+. Immutable = Tidak bisa di ubah
+. Infers = Menyimpulkan, Menebak
 
 === J ===
 
 === K ===
 
 === L ===
+. Logging = Mencatat, Pencatatan
 
 === M ===
 
@@ -43,6 +59,11 @@
 === O ===
 
 === P ===
+. Provide = Menyediakan
+. Pairs = Pasangan
+. Primarily = Terutama, Pada dasarnya
+. Prevent = mencegah
+. Perform = Melakukan, Menjalankan
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -50,15 +71,19 @@
 === R ===
 . Reason = Alasan
 . Root = Akar, Asal mula
+. Remains = Tetap, Masih ada
 
 === S ===
 . Stricter = Ketat, Lebih ketat
+. Sequence = Urutab
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
+. Terminated = Di hentikan, Di akhiri
 
 === U ===
-, Unfortunately = Sayangnya
+. Unfortunately = Sayangnya
+. Upon = Ketika, Setelah
 
 === V ===
 
@@ -67,7 +92,8 @@
 . Well = Baiklah, Dengan Baik, yah
 . Widely = Secara luas
 . Was/is = Adalah, Berada
-. while = Sementara, Ketika, Meskipun
+. While = Sementara, Ketika, Meskipun
+. Whether = Apakah
 
 === X ===
 
