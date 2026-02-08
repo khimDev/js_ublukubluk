@@ -6,12 +6,17 @@
 . Allowed = Di Izinkan
 . Append = Menambahkan Di Akhir
 . Ambiguities = Ketidakjelasan, Hal membingungkan
+. An = Sebuah ( di pakai sebelum huruf vokal A,I,U,E,O )
+. As = Sebagai, Ketika, Karena
+. Appear = Muncul, Tampak
 
 === B ===
 . Behavior = Perilaku, Bertindak 
 . Blame = Salah, Tanggung jawab, Tuduhan
 . Brings = Membawa, Menghasilkan
 . Beneficial / Benefit = Bermanfaat, Manfaat
+. Bracket = Tandakurung
+. Being = Sedang, Menjadi
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
@@ -19,6 +24,9 @@
 . Convention = Kebiasaan, Aturan, Aturan umum
 . Concatenation = Penggabungan
 . Current = Saat ini, Sekarang
+. Contains = Berisi, Mengandung
+. Concise = Ringkas, Singkat
+. Conversation = Percakapan
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -30,6 +38,8 @@
 . Especially = Terutama, Khususnya
 . Ensure = Memastikan
 . Even = Bahkan, Genap
+. Essential = Penting, Mendasar
+. Embedding = Menyisipkan
 
 === F ===
 . Frequently = Sering
@@ -44,6 +54,9 @@
 . Instance = Misalnya, 
 . Immutable = Tidak bisa di ubah
 . Infers = Menyimpulkan, Menebak
+. Involve = Melibatkan
+. Intended = Di masukkan, Di tunjukkan
+. Interpolation = Penyisipan nilai ke dalam teks
 
 === J ===
 
@@ -53,10 +66,16 @@
 . Logging = Mencatat, Pencatatan
 
 === M ===
+. Might = Mungkin
+. Misintrepret = Salah menafsirkan
 
 === N ===
+. Necessaary = Perlu, Wajib
+. Notice = Memperhatikan, Menyadari
 
 === O ===
+. Otherwise = Kalau tidak, Sebaliknya
+. Occurence = Kejadian, Peristiwa
 
 === P ===
 . Provide = Menyediakan
@@ -64,6 +83,7 @@
 . Primarily = Terutama, Pada dasarnya
 . Prevent = mencegah
 . Perform = Melakukan, Menjalankan
+. Particulary = Khususnya, Terutama
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -72,14 +92,18 @@
 . Reason = Alasan
 . Root = Akar, Asal mula
 . Remains = Tetap, Masih ada
+. Retrive = Mengambil kembali, Mendapatkan
 
 === S ===
 . Stricter = Ketat, Lebih ketat
-. Sequence = Urutab
+. Sequence = Urutan
+. Sure = Yakin, Pasti
+, Substring = Potongan string
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
 . Terminated = Di hentikan, Di akhiri
+. Treated = Di perlukan, Di anggap
 
 === U ===
 . Unfortunately = Sayangnya
@@ -93,7 +117,8 @@
 . Widely = Secara luas
 . Was/is = Adalah, Berada
 . While = Sementara, Ketika, Meskipun
-. Whether = Apakah
+. Whether = Apakah 
+. which = Yang/Mana
 
 === X ===
 
