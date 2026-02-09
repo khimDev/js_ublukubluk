@@ -1,23 +1,24 @@
-// let firtsName = "Rokhim";
-// let LastName = "Dev";
+/* Concat Method */
+let firtsName = "Rokhim";
+let LastName = "Dev";
 
-// let fullName = firtsName.concat(" ", LastName);
-// console.log(fullName);
+let fullName = firtsName.concat(" ", LastName);
+console.log(fullName);
 
-// /* jas Bracket Notation */
-// let salam = "azizir";
-// let sal = salam[0] + salam[2];
-// console.log(sal);
+/* js Bracket Notation */
+let salam = "azizir";
+let sal = salam[0] + salam[2];
+console.log(sal);
 
-// /* another example */
-// let statement = "She said, \"Hello!\"";
-// console.log(statement);
+/* another example */
+let statement = "She said, \"Hello!\"";
+console.log(statement);
 
-// /* Literals white multiple lines */
-// let poem = ` Roes is beautiful
-//  i hope she's got a
-//  perfect person in his life`;
-// console.log(poem);
+/* Literals white multiple lines */
+let poem = ` Roes is beautiful
+ i hope she's got a
+ perfect person in his life`;
+console.log(poem);
 
 /* Complex Literals template */
 const song = "Bohemian Rhapsody";
