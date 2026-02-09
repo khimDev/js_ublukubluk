@@ -8,6 +8,7 @@
 . Ambiguities = Ketidakjelasan, Hal membingungkan
 . An = Sebuah ( di pakai sebelum huruf vokal A,I,U,E,O )
 . As = Sebagai, Ketika, Karena
+. At = 
 . Appear = Muncul, Tampak
 
 === B ===
@@ -17,6 +18,7 @@
 . Beneficial / Benefit = Bermanfaat, Manfaat
 . Bracket = Tandakurung
 . Being = Sedang, Menjadi
+. Be = 
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
@@ -43,8 +45,10 @@
 
 === F ===
 . Frequently = Sering
+. Few = 
 
 === G ===
+. Greeting = 
 
 === H ===
 . However = Namun, Bagaimanapun
@@ -84,6 +88,7 @@
 . Prevent = mencegah
 . Perform = Melakukan, Menjalankan
 . Particulary = Khususnya, Terutama
+. Portion = 
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -98,7 +103,8 @@
 . Stricter = Ketat, Lebih ketat
 . Sequence = Urutan
 . Sure = Yakin, Pasti
-, Substring = Potongan string
+. Substring = Potongan string
+. sentence = 
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
