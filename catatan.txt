@@ -8,8 +8,9 @@
 . Ambiguities = Ketidakjelasan, Hal membingungkan
 . An = Sebuah ( di pakai sebelum huruf vokal A,I,U,E,O )
 . As = Sebagai, Ketika, Karena
-. At = 
+. At = DI, Pada
 . Appear = Muncul, Tampak
+. Achive = Mencapai
 
 === B ===
 . Behavior = Perilaku, Bertindak 
@@ -18,7 +19,7 @@
 . Beneficial / Benefit = Bermanfaat, Manfaat
 . Bracket = Tandakurung
 . Being = Sedang, Menjadi
-. Be = 
+. Be = Menjadi/Adalah
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
@@ -29,6 +30,8 @@
 . Contains = Berisi, Mengandung
 . Concise = Ringkas, Singkat
 . Conversation = Percakapan
+. Covers = Mencangkup, Meliputi
+. Corresponding = Yang sesuai, Berhubungan
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -42,13 +45,17 @@
 . Even = Bahkan, Genap
 . Essential = Penting, Mendasar
 . Embedding = Menyisipkan
+. Encoding = Proses mengubah data ke format tertentu
+. Exclamation = Tanda seru( ! )
+. Exact = Tepat, Persis
+. Ensuring = Memastikan
 
 === F ===
 . Frequently = Sering
-. Few = 
+. Few = Beberapa ( jumlah kecil )
 
 === G ===
-. Greeting = 
+. Greeting = Salam
 
 === H ===
 . However = Namun, Bagaimanapun
@@ -61,6 +68,7 @@
 . Involve = Melibatkan
 . Intended = Di masukkan, Di tunjukkan
 . Interpolation = Penyisipan nilai ke dalam teks
+. interchange = Saling tukar, Pertukaran
 
 === J ===
 
@@ -71,7 +79,8 @@
 
 === M ===
 . Might = Mungkin
-. Misintrepret = Salah menafsirkan
+. Misintrepret = Salah 
+. May = Mungkin, Boleh
 
 === N ===
 . Necessaary = Perlu, Wajib
@@ -80,6 +89,9 @@
 === O ===
 . Otherwise = Kalau tidak, Sebaliknya
 . Occurence = Kejadian, Peristiwa
+. Oposite = Berlawanan
+. Often = Sering
+. Omit = Menghilangkan, Tidak menyertakan
 
 === P ===
 . Provide = Menyediakan
@@ -88,7 +100,8 @@
 . Prevent = mencegah
 . Perform = Melakukan, Menjalankan
 . Particulary = Khususnya, Terutama
-. Portion = 
+. Portion = Bagian
+. Punchtuation = Tanda baca
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -104,7 +117,9 @@
 . Sequence = Urutan
 . Sure = Yakin, Pasti
 . Substring = Potongan string
-. sentence = 
+. sentence = Kalimat
+. Since = Ilmu pengetahuan
+. Severeal = Beberapa ( lebih banyak dari few )
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
