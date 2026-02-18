@@ -35,12 +35,16 @@
 . Corresponding = Yang sesuai, Berhubungan
 . Casing = Penulisan huruf besar/kecil
 . Case = Kasus
+. Can = Bisa/Dapat
 
 === D ===
 . Dynamicaly = Dinamis 
 . Determined = Di tentukan, Bertekad
 . Directly = Secara langsung
 . Distinguishes = Membedakan
+. Deafult = Bawaan/Standar 
+. Desired = Diinginkan
+. Demonstrates = Menunjukkan
 
 === E ===
 . Enforce = Menegakkan, Memaksakan
@@ -78,6 +82,7 @@
 . Interpolation = Penyisipan nilai ke dalam teks
 . interchange = Saling tukar, Pertukaran
 . Interfere = Mengganggu, Mencampuri
+. Initiality = Pada awalnya
 
 === J ===
 
@@ -87,6 +92,7 @@
 . Logging = Mencatat, Pencatatan
 . Letter = huruf/surat
 . Luckily = Untungnya
+. Limitations = Keterbatasan
 
 === M ===
 . Might = Mungkin
@@ -103,6 +109,7 @@
 . Oposite = Berlawanan
 . Often = Sering
 . Omit = Menghilangkan, Tidak menyertakan
+. Obtain = Memperoleh, Mendapatkan
 
 === P ===
 . Provide = Menyediakan
@@ -113,6 +120,8 @@
 . Particulary = Khususnya, Terutama
 . Portion = Bagian
 . Punchtuation = Tanda baca
+. Patterns = Pola
+. Prior = Sebelumnya
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -135,6 +144,7 @@
 . Severeal = Beberapa ( lebih banyak dari few )
 . Summary = Ringkasan
 . Subsequent = Berikutnya, setelah itu
+. Straightforward = Sederhana, Mudah di fahami
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
@@ -161,6 +171,7 @@
 . Whether = Apakah 
 . Which = Yang/Mana
 . Whitespace = Spasi
+. Wrapped = Di bungkus
 
 === X ===
 

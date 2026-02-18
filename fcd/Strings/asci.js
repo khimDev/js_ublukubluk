@@ -1,6 +1,6 @@
 /* chareCodeAt() method */
 let letter = "ahmad";
-console.log(letter.charCodeAt(1));  // 65
+console.log(letter.charCodeAt(1));  // 104
 
 /* fromCharCode() method */
 let char = String.fromCharCode(104);
