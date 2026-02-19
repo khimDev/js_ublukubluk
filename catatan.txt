@@ -12,6 +12,10 @@
 . Appear = Muncul, Tampak
 . Achive = Mencapai
 . Actual = Sebenarnya, Nyata, Sesungguhnya
+. Available =  Tersedia
+. Account = Akun/Catatan
+. Asterisk = Tanda bintang *
+. A lot = Banyak
 
 === B ===
 . Behavior = Perilaku, Bertindak 
@@ -21,6 +25,8 @@
 . Bracket = Tandakurung
 . Being = Sedang, Menjadi
 . Be = Menjadi/Adalah
+. Beyond = Melampaui, Di luar
+. Boundary = Batas
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
@@ -36,6 +42,7 @@
 . Casing = Penulisan huruf besar/kecil
 . Case = Kasus
 . Can = Bisa/Dapat
+. Currencies = Mata uang
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -45,6 +52,8 @@
 . Deafult = Bawaan/Standar 
 . Desired = Diinginkan
 . Demonstrates = Menunjukkan
+. Divide = Membagi
+. Doesn't = Tidak
 
 === E ===
 . Enforce = Menegakkan, Memaksakan
@@ -61,10 +70,12 @@
 . Emphasize = Menekankan, Memberi penekanan
 . Entire = Seluruh, Keseluruhan
 . Encounter = Mengalami, Bertemu
+. Exceed = Melebihi
 
 === F ===
 . Frequently = Sering
 . Few = Beberapa ( jumlah kecil )
+. Fractional = Pecahan, Decimal
 
 === G ===
 . Greeting = Salam
@@ -83,6 +94,7 @@
 . interchange = Saling tukar, Pertukaran
 . Interfere = Mengganggu, Mencampuri
 . Initiality = Pada awalnya
+. Includes = Termasuk
 
 === J ===
 
@@ -93,11 +105,15 @@
 . Letter = huruf/surat
 . Luckily = Untungnya
 . Limitations = Keterbatasan
+. Lot = Banyak
+. Let's break down = Mari kita uraikan
 
 === M ===
 . Might = Mungkin
 . Misintrepret = Salah 
 . May = Mungkin, Boleh
+. Measurements = Pengukuran
+. Matter = Hal penting/Masalah
 
 === N ===
 . Necessaary = Perlu, Wajib
@@ -110,6 +126,8 @@
 . Often = Sering
 . Omit = Menghilangkan, Tidak menyertakan
 . Obtain = Memperoleh, Mendapatkan
+. Occasions = Kesempatan, Kejadian
+. On = Di, Pada
 
 === P ===
 . Provide = Menyediakan
@@ -122,6 +140,7 @@
 . Punchtuation = Tanda baca
 . Patterns = Pola
 . Prior = Sebelumnya
+. Precedence = Prioritas urutan
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -133,6 +152,8 @@
 . Remains = Tetap, Masih ada
 . Retrive = Mengambil kembali, Mendapatkan
 . Rather = Lebih baik/agak
+. Referred = Di sebut, Di rujuk
+. Reminder = Pengingat
 
 === S ===
 . Stricter = Ketat, Lebih ketat
@@ -145,6 +166,10 @@
 . Summary = Ringkasan
 . Subsequent = Berikutnya, setelah itu
 . Straightforward = Sederhana, Mudah di fahami
+. Seem = Tampak. Terlihat
+. Separate = Memisahkan
+. Some = Beberapa
+. Surprisingly = Mengejutkan
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
@@ -154,11 +179,14 @@
 . These = ini (jamak)
 . Trim = Memangkas, Menghapus bagian tertentu
 . Trailing = Di bagian akhir
+. Those = Itu (jamak)
 
 === U ===
 . Unfortunately = Sayangnya
 . Upon = Ketika, Setelah
 . Unwanted = Tidak di inginkan
+. Unified = Di satukan
+. Usually = Biasanya
 
 === V ===
 
@@ -172,6 +200,7 @@
 . Which = Yang/Mana
 . Whitespace = Spasi
 . Wrapped = Di bungkus
+. Whole = Seluruh, Keseluruhan
 
 === X ===
 
