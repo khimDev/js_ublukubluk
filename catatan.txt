@@ -16,6 +16,8 @@
 . Account = Akun/Catatan
 . Asterisk = Tanda bintang *
 . A lot = Banyak
+. Above = Di atas
+. Attempting = Mencoba
 
 === B ===
 . Behavior = Perilaku, Bertindak 
@@ -27,6 +29,7 @@
 . Be = Menjadi/Adalah
 . Beyond = Melampaui, Di luar
 . Boundary = Batas
+. Becomes = Menjadi
 
 === C ===
 . Considered = Di anggap, Di pertimbangkan
@@ -43,6 +46,8 @@
 . Case = Kasus
 . Can = Bisa/Dapat
 . Currencies = Mata uang
+. Coercion = Pemaksaan (konversi tipe data otomatis)
+. Certain = Tertentu
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -54,6 +59,7 @@
 . Demonstrates = Menunjukkan
 . Divide = Membagi
 . Doesn't = Tidak
+. Decides = Memutuskan
 
 === E ===
 . Enforce = Menegakkan, Memaksakan
@@ -71,17 +77,21 @@
 . Entire = Seluruh, Keseluruhan
 . Encounter = Mengalami, Bertemu
 . Exceed = Melebihi
+. Equations = Permsamaan
 
 === F ===
 . Frequently = Sering
 . Few = Beberapa ( jumlah kecil )
 . Fractional = Pecahan, Decimal
+. Force = Memaksa
+. Figure = Angka/Sosok/Memahami
 
 === G ===
 . Greeting = Salam
 
 === H ===
 . However = Namun, Bagaimanapun
+. Has = Memiliki
 
 === I ===
 . Instead = Gantinya, Sebagai gantinya, alih-alih
@@ -95,6 +105,7 @@
 . Interfere = Mengganggu, Mencampuri
 . Initiality = Pada awalnya
 . Includes = Termasuk
+. Interesting = Menariik
 
 === J ===
 
@@ -128,6 +139,7 @@
 . Obtain = Memperoleh, Mendapatkan
 . Occasions = Kesempatan, Kejadian
 . On = Di, Pada
+. Override = Menimpa, Mengganti aturan default
 
 === P ===
 . Provide = Menyediakan
@@ -141,6 +153,7 @@
 . Patterns = Pola
 . Prior = Sebelumnya
 . Precedence = Prioritas urutan
+. Probably = Mungkin
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
@@ -154,6 +167,8 @@
 . Rather = Lebih baik/agak
 . Referred = Di sebut, Di rujuk
 . Reminder = Pengingat
+. Robust = Kuat, Tahan terhadap error
+. Regardless = Tanpa peduli, Bagaimanapun
 
 === S ===
 . Stricter = Ketat, Lebih ketat
@@ -170,6 +185,8 @@
 . Separate = Memisahkan
 . Some = Beberapa
 . Surprisingly = Mengejutkan
+. Switch = Beralih/Perintah switch dalam koding
+. So on = Dan seterusnya
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
@@ -180,6 +197,8 @@
 . Trim = Memangkas, Menghapus bagian tertentu
 . Trailing = Di bagian akhir
 . Those = Itu (jamak)
+. Things = Hal-hal
+. Think = Berpikir
 
 === U ===
 . Unfortunately = Sayangnya
@@ -187,6 +206,7 @@
 . Unwanted = Tidak di inginkan
 . Unified = Di satukan
 . Usually = Biasanya
+. Unrepresentable = Tidak bisa di representasikan
 
 === V ===
 
@@ -201,10 +221,12 @@
 . Whitespace = Spasi
 . Wrapped = Di bungkus
 . Whole = Seluruh, Keseluruhan
+. Weird = Aneh
 
 === X ===
 
 === Y ===
 . Yet = Namun, Tetapi, Belum
+. Yields = Menghasilkans
 
 === Z ===
