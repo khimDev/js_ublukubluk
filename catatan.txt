@@ -48,6 +48,8 @@
 . Currencies = Mata uang
 . Coercion = Pemaksaan (konversi tipe data otomatis)
 . Certain = Tertentu
+. Compound = Gabungan, Kombinasi
+. Clutter = Berantakan, Penuh sesak
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -60,6 +62,7 @@
 . Divide = Membagi
 . Doesn't = Tidak
 . Decides = Memutuskan
+. Dcrease = Menurun, Mengurangi
 
 === E ===
 . Enforce = Menegakkan, Memaksakan
@@ -88,6 +91,7 @@
 
 === G ===
 . Greeting = Salam
+. Gueess = Menebak
 
 === H ===
 . However = Namun, Bagaimanapun
@@ -97,6 +101,7 @@
 . Instead = Gantinya, Sebagai gantinya, alih-alih
 . Instance = Misalnya, 
 . Immutable = Tidak bisa di ubah
+. Immediately = Segera
 . Infers = Menyimpulkan, Menebak
 . Involve = Melibatkan
 . Intended = Di masukkan, Di tunjukkan
@@ -106,6 +111,7 @@
 . Initiality = Pada awalnya
 . Includes = Termasuk
 . Interesting = Menariik
+. Increase =Menaikkan, Bertambah
 
 === J ===
 
@@ -129,6 +135,7 @@
 === N ===
 . Necessaary = Perlu, Wajib
 . Notice = Memperhatikan, Menyadari
+. Neither = Tidak satupun ( Dari dua )
 
 === O ===
 . Otherwise = Kalau tidak, Sebaliknya
@@ -154,10 +161,13 @@
 . Prior = Sebelumnya
 . Precedence = Prioritas urutan
 . Probably = Mungkin
+. Prefix = Awalan
+. Postfix = Akhiran
 
 === Q ===
 . Quirk = Keanehan, Hal aneh, Unik
 . Occur = Terjadi
+. Quotient = Hasil pembagian
 
 === R ===
 . Reason = Alasan
@@ -169,6 +179,8 @@
 . Reminder = Pengingat
 . Robust = Kuat, Tahan terhadap error
 . Regardless = Tanpa peduli, Bagaimanapun
+. Respectively = Masing-masing
+. Raises = Menaikkan, Memuunculkan
 
 === S ===
 . Stricter = Ketat, Lebih ketat
@@ -199,6 +211,8 @@
 . Those = Itu (jamak)
 . Things = Hal-hal
 . Think = Berpikir
+. There's = Ada
+. Twist = Kejutan, Perubahan tak terduga
 
 === U ===
 . Unfortunately = Sayangnya
