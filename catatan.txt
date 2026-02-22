@@ -14,7 +14,7 @@
 . Actual = Sebenarnya, Nyata, Sesungguhnya
 . Available =  Tersedia
 . Account = Akun/Catatan
-. Asterisk = Tanda bintang *
+. Asterisk = Tanda bintang ( * )
 . A lot = Banyak
 . Above = Di atas
 . Attempting = Mencoba
