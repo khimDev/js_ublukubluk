@@ -50,6 +50,7 @@
 . Certain = Tertentu
 . Compound = Gabungan, Kombinasi
 . Clutter = Berantakan, Penuh sesak
+. Clause = 
 
 === D ===
 . Dynamicaly = Dinamis 
@@ -68,6 +69,7 @@
 . Enforce = Menegakkan, Memaksakan
 . Especially = Terutama, Khususnya
 . Ensure = Memastikan
+. Enclose = 
 . Even = Bahkan, Genap
 . Essential = Penting, Mendasar
 . Embedding = Menyisipkan
@@ -199,6 +201,7 @@
 . Surprisingly = Mengejutkan
 . Switch = Beralih/Perintah switch dalam koding
 . So on = Dan seterusnya
+. Similarly = 
 
 === T ===
 . Troughout = Selama, Diseluruh, Sepenuhnya
