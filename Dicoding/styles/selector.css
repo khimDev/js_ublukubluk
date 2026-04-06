@@ -1,0 +1,139 @@
+
+/* Example 1 */
+/* ID & Hash (#) Seector */
+#special {
+  background-color: skyblue;
+}
+
+/* Example 2 */
+/* class selector */
+ul {
+  font-size: 18px;
+}
+
+/* <a> element yang menerapkan href attribute */
+a[href] {
+  color: blue;
+}
+
+/* <a> element yang menerapkan nilai pada href dengan awalan "#" */
+a[href^='#'] {
+  background-color: gold;
+}
+
+/* <a> element yang menerapkan nilai pada href yang mengandung teks "example" */
+a[href*='example'] {
+  background-color: silver;
+}
+
+/* <a> element yang menerapkan nilai pada href yang mengandung teks "insensitive" tidak mementingkan huruf kapital*/
+a[href*='insensitive' i] {
+  color: cyan;
+}
+
+/* <a> element yang menerapkan nilai pada href dengan akhiran ".org" */
+a[href$='.org'] {
+  color: red;
+}
+
+/* Example 3 */
+/* Univeersal Selector */
+
+/* Menargetkan seluruh tipe elemen */
+* {
+  color: green;
+}
+
+/* Menargetkan seluruh tipe elemen yang mengandung nilai "en" pada atribut lang */
+*[lang^='en'] {
+  font-style: italic;
+}
+
+/* Menargetkan seluruh tipe elemen yang memiliki nilai "warning" pada atribut class */
+*.warning {
+  color: red;
+}
+
+/* Menargetkan seluruh tipe elemen yang memiliki nilai "content" pada atribut id */
+*#content {
+  border: 1px solid blue;
+  padding: 20px;
+}
+
+/* Example 4 */
+/* Adjacent Sibling selector */
+img + p {
+    color: green;
+}
+
+/* Example 5 */
+/* General Sibling Selector */
+img ~ h1 {
+    color: purple;
+}
+
+/* Example 6 */
+/* Child Selector */
+div.example6 > p {
+  background-color: yellow;
+}
+
+/* Example 7 */
+/* Descendant Selectpr ( Spasce ) */
+div.example7 p {
+  background-color: rgb(0, 174, 255);
+}
+
+/* Example 8 */
+/* Pseudo */
+a:hover {
+  color: blue;
+}
+
+/* rule akan diterapkan pada sebuah tautan yang belum pernah dikunjungi */
+a:link {
+   color: red;
+}
+
+/* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
+a:visited {
+   color: green;
+}
+
+/* rule akan diterapkan pada sebuah tautan ketika diarahkan dengan kursor */
+a:hover {
+   color: pink;
+}
+
+/* rule akan diterapkan pada sebuah tautan ketika ditekan */
+a:active {
+   color:orange;
+}
+
+/* Example 9 */
+/* Pseudo Element */
+p.letter::first-letter {
+  font-size: 32px;
+  font-weight: bold;
+  color: saddlebrown;
+}
+
+blockquote::before,
+blockquote::after {
+  content: '"';
+  font-size: 24px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: greenyellow;
+  box-shadow: 6px 6px 5px 10px #666666;
+}
