@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    padding: 20px;
+    color: white;
+    background-color: #002139;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a {
+    font-size: 17px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav ul {
+    display: flex;
+    padding-inline: 5rem;
+    gap: 2rem;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav {
+    background-color: #002139;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+
+main {
+    padding: 20px;
+    display: flex;
+    gap: 1.5rem;
+}
+
+aside {
+    flex: 1;
+}
+
+header {
+    display: inline;
+}
+
+.img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.overlay {
+    position: relative;
+    height: 50vh;
+    background: url('../images/jumbotron.webp') center/cover no-repeat;
+}
+
+.jumbotron {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0,5);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100px;
+    text-shadow: black 2px 2px 2px;
+    letter-spacing: 7px;
+    margin: 0;
+    color: whitesmoke;
+}
+
+.hero-content p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 10px;
+    text-shadow: black 2px 2px 2px;
+    letter-spacing: 7px;
+    margin: 0;
+    color: whitesmoke;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+
+.card {
+    box-shadow: 0 14px 8px rgba(0,0,0,0.2);
+    border-radius: 5px;
+
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.profile header {
+    text-align: center;
+}
+
+.profile img {
+    width: 200px;
+    border-radius: 50%;
+    border-color: black;
+}
+
+#content {
+    float: left;
+    flex: 5;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1rem 2rem;
+}
+
+main .galery1 {
+    flex: 1;
+
+    display: flex;
+    align-items: center;
+}
+
+main .galery1 .galery-desc {
+    flex: 1 1;
+}
+
+main .galery1 .content_img  {
+    flex: 1;
+    display: flex;
+}
+
+main .galery1 .content_img img {
+    width: 300px;
+    min-height: 250px;
+    margin: auto;
+}
+
+main aside .social-media ul {
+  padding: 1.5rem 1rem;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  margin: auto;
+  background-color: #002139;
+ 
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+main aside .social-media li {
+  list-style-type: none;
+}
+
+main aside .social-media li a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: white;
+ 
+  transition: all 0.1s ease-in-out;
+}
+
+main aside .social-media li a:hover {
+  color: #3a4856;
+}
+
+/* Perangkat dengan lebar layar 1200px dan di bawahnya */
+@media screen and (max-width: 1200px) {
+  main {
+    flex-flow: column nowrap;
+  }
+ 
+  main aside {
+    align-self: center;
+  }
+}
+ 
+/* Perangkat dengan lebar layar 768px dan di bawahnya */
+@media screen and (max-width: 768px) {
+  nav ul {
+    justify-content: center;
+  }
+ 
+  main aside {
+    align-self: stretch;
+  }
+}
